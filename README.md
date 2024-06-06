@@ -8,7 +8,9 @@ WordPress Playground is WordPress in a single click. It runs directly in your we
 
 [<kbd> <br> Official Playground site on WordPress.org <br> </kbd>](https://wordpress.org/playground)
 
-Playground is groundbreaking. It's a renaissance of a new generation of interactive, single-click WordPress tools. There are interactive tutorials, QA (Quality Assurance) workflows, “try before you buy” previewers for plugins, collaboration tools, contribution workflows and so much more. It's also an innovation incubator where we explore [Blueprints](https://github.com/WordPress/blueprints), [live synchronization](https://playground.wordpress.net/demos/sync.html), [native PHP XML parsers](https://github.com/WordPress/wordpress-develop/pull/6713), and more.
+I [prototyped Playground in a week](https://adamadam.blog/2023/07/01/wordpress-playground-was-prototyped-in-a-week/) in 2022 and been leading the project since then. Initially I just wanted to write an [interactive tutorial](https://adamadam.blog/2023/02/16/how-to-modify-html-in-a-php-wordpress-plugin-using-the-new-tag-processor-api/) without maintaining a hosted WordPress, but Playground became much bigger than.
+
+Playground is truly groundbreaking. It's a renaissance of a new generation of interactive, single-click WordPress tools. There are interactive tutorials, QA (Quality Assurance) workflows, “try before you buy” previewers for plugins, collaboration tools, contribution workflows and so much more. It's also an innovation incubator where we explore [Blueprints](https://github.com/WordPress/blueprints), [live synchronization](https://playground.wordpress.net/demos/sync.html), [native PHP XML parsers](https://github.com/WordPress/wordpress-develop/pull/6713), and more.
 
 I wrote and spoke about Playground on a few occasions:
 
@@ -21,6 +23,8 @@ Here's a few more resources:
 
 * [WordPress Playground Demo](https://playground.wordpress.net/)
 * [GitHub repository](https://github.com/WordPress/wordpress-playground/)
+
+[<kbd> <br> Official Playground site on WordPress.org <br> </kbd>](https://wordpress.org/playground)
 
 ## Libraries
 
