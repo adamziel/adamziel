@@ -1,6 +1,6 @@
 Hi there! 👋 I’m Adam from Wrocław, Poland – a WordPress core committer at Automattic and the creator of WordPress Playground.
 
-Here's few noteworthy things I've built or co-created.
+Here's few noteworthy things I've worked on.
 
 ## WordPress Playground
 
@@ -43,7 +43,6 @@ All three could be piped together (with [minimal glue for WP_XML_Processor](htt
 
 * [MySQL -> SQLite translator](https://github.com/WordPress/sqlite-database-integration) – to run WordPress on SQLite
 * [WordPress -> ZIP exporter](https://github.com/WordPress/playground-tools/blob/974cb39df65089002a1bbf6f5eacd99a66d81801/packages/playground/src/playground-zip.php#L49) – streams all files and a database dump into ZIP archive and then directly to the response.
-    * [zip_database](https://github.com/WordPress/playground-tools/blob/974cb39df65089002a1bbf6f5eacd99a66d81801/packages/playground/src/playground-db.php#L33).
 
 ### TypeScript
 
