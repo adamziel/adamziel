@@ -23,6 +23,8 @@ Here's a few more resources:
 
 * [WordPress Playground Demo](https://playground.wordpress.net/)
 * [GitHub repository](https://github.com/WordPress/wordpress-playground/)
+* [Awesome WordPress Playground](https://github.com/akirk/awesome-wordpress-playground)
+* [Playground for Markdown <-> Blocks conversion](https://playground.wordpress.net/#eyJwbHVnaW5zIjpbImh0dHBzOi8vZ2l0aHViLXByb3h5LmNvbS9wcm94eS8/cmVwbz1kbXNuZWxsL2Jsb2NreS1mb3JtYXRzIl0sImxvZ2luIjp0cnVlLCJsYW5kaW5nUGFnZSI6Ii93cC1hZG1pbi9wb3N0LW5ldy5waHAiLCJzdGVwcyI6W3sic3RlcCI6Im12IiwiZnJvbVBhdGgiOiIvd29yZHByZXNzL3dwLWNvbnRlbnQvcGx1Z2lucy9ibG9ja3ktZm9ybWF0cy10cnVuayIsInRvUGF0aCI6Ii93b3JkcHJlc3Mvd3AtY29udGVudC9wbHVnaW5zL2Jsb2NreS1mb3JtYXRzIn0seyJzdGVwIjoiYWN0aXZhdGVQbHVnaW4iLCJwbHVnaW5QYXRoIjoiYmxvY2t5LWZvcm1hdHMvYmxvY2t5LWZvcm1hdHMucGhwIn1dfQ==)
 
 [<kbd> <br> Official Playground site on WordPress.org <br> </kbd>](https://wordpress.org/playground)
 
