@@ -15,7 +15,8 @@ Playground is truly groundbreaking. It's a renaissance of a new generation of in
 I wrote and spoke about Playground on a few occasions:
 
 * https://web.dev/articles/wordpress-playground
-* [WordCamp EU 2024](https://youtu.be/7Nmz3IjtPh0?si=f0lOhl8q1au-uyVP&t=371)
+* [WordCamp EU 2024](https://www.youtube.com/live/ofh6jLrXnpA?si=byvSyd3orMg8_wom&t=5203)
+* [WordCamp EU 2023](https://youtu.be/7Nmz3IjtPh0?si=f0lOhl8q1au-uyVP&t=371)
 * [State of the Word 2023](https://youtu.be/c7M4mBVgP3Y?si=inAaywBlrFyh1w1b&t=736)
 * [State of the Word 2022](https://youtu.be/VeigCZuxnfY?si=HuWxAykpddXzzO7l&t=2916)
 
